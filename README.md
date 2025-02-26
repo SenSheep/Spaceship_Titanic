@@ -1,4 +1,5 @@
 # Spaceship Titanic - Kaggle Competition
+https://www.kaggle.com/competitions/spaceship-titanic
 
 ## Описание
 Этот проект посвящен решению задачи соревнования **Spaceship Titanic** на Kaggle.
